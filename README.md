@@ -7,7 +7,7 @@ Nome: Eduardo da Silva Setti Ciolette
 Matricula: 885202
 
 ## Tela de inspeção com navegador
-
+![alt text](image-2.png)
 
 ## Tela de projeto no Replit
-
+![alt text](image-1.png)
